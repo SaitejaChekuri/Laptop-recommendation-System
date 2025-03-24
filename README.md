@@ -1,3 +1,4 @@
+# Saiteja Chekuri
 # ShopAssistAI
 
 ShopAssist AI is a chatbot project designed to provide personalized laptop recommendations for online shoppers. Leveraging OpenAI's ChatCompletion API with the 'gpt-3.5-turbo' model, this chatbot enhances the online shopping experience by parsing dataset information and offering accurate assistance based on user preferences.
